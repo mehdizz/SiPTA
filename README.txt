@@ -1,3 +1,4 @@
-As this repository is so huge, I could not mirror it to Github. Please check the source at https://bitbucket.org/mehdizz/sipta.
+The code is located at my Bitbucket account. You can either clone it using "git clone https://mehdizz@bitbucket.org/mehdizz/sipta.git" or run the RUNME.sh script to clone it for you.
 
-Clone address: git clone https://mehdizz@bitbucket.org/mehdizz/sipta.git
+Enjoy!
+Mehdi

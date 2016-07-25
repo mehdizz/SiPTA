@@ -1,1 +1,1 @@
-git clone https://mehdizz@bitbucket.org/mehdizz/sipta.git
+git clone https://milaniez@bitbucket.org/milaniez/sipta.git
